@@ -1,2 +1,2 @@
 # 3D_Printing
-§D Printing Stuff
+3D Printing Stuff
