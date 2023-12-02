@@ -1,0 +1,15 @@
+{
+    "from": "User",
+    "inherits": "Elegoo Neptune 4 Max (0.6 nozzle)",
+    "is_custom_defined": "0",
+    "name": "Elegoo Neptune 4 Plus (0.6 nozzle)",
+    "printable_area": [
+        "0x0",
+        "330x0",
+        "330x330",
+        "0x330"
+    ],
+    "printable_height": "387",
+    "printer_settings_id": "Elegoo Neptune 4 Plus (0.6 nozzle)",
+    "version": "1.8.0.0"
+}
