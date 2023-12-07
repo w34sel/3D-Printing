@@ -19,3 +19,4 @@
 - firmware upgrade to 1.2.2.64
 - enabled USB Webcam
 - modified nginx to avoid http 504 upload error dialog
+- updated profiles orca slicer with higher speed settings, tested with benchy(30min, 0.28mm) and cube
