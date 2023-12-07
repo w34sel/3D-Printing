@@ -8,6 +8,5 @@
 
 # ToDo
 - Upgrade rails bought here https://strong3d.myshopify.com/
-- Cable Chain by https://www.thingiverse.com/thing:6217095
-
+- Cable Chain
 
