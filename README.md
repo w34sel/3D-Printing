@@ -15,9 +15,8 @@
 - Cable Chain
 
 
-# Done
+# Changes
 - firmware upgrade to 1.2.2.64
 - enabled USB Webcam
 - modified nginx to avoid http 504 upload error dialog
-- updated profiles orca slicer with higher speed settings, tested with Sunlu Pla+ Black benchy(32min, 0.28mm) and cube
-- Sunlu 1.75mm PLA+ adjusted Flowrate to 145% for perfect first layer used 0.20mm Standard @Elegoo Neptune4Plus (0.4 nozzle) (still testing filament)
+
