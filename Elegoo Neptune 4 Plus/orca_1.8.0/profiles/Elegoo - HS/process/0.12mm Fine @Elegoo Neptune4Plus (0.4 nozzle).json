@@ -94,7 +94,7 @@
     "initial_layer_infill_speed": "90",
     "outer_wall_speed": "120",
     "inner_wall_speed": "150",
-    "internal_solid_infill_speed": "2250",
+    "internal_solid_infill_speed": "225",
     "top_surface_speed": "120",
     "gap_infill_speed": "120",
     "sparse_infill_speed": "225",
