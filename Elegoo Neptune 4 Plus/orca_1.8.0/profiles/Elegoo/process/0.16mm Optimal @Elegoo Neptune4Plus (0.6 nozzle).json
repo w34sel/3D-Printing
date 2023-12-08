@@ -5,7 +5,7 @@
     "from": "system",
 	"inherits": "fdm_process_elegoo_common",
 	"instantiation": "true",
-	"layer_height": "0.08",
+	"layer_height": "0.16",
     "adaptive_layer_height": "1",
     "reduce_crossing_wall": "1",
     "max_travel_detour_distance": "0",
