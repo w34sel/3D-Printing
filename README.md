@@ -11,7 +11,7 @@
 
 
 # ToDo
-- Upgrade rails bought here https://strong3d.myshopify.com/
+
 - Cable Chain
 
 
@@ -19,4 +19,5 @@
 - firmware upgrade to 1.2.2.64
 - enabled USB Webcam
 - modified nginx to avoid http 504 upload error dialog
+- replaced wheels with linear rails x/y/z - rails bought here https://strong3d.myshopify.com/
 
