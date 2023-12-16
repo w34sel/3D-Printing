@@ -16,6 +16,8 @@
 
 - Cable Chain
 - Build case
+- Cam mount
+- Cam error detection
 
 
 # Changes
