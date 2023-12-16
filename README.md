@@ -26,7 +26,7 @@
 - modified nginx to avoid http 504 upload error dialog
 - replaced wheels with linear rails x/y/z - rails bought here https://strong3d.myshopify.com/
 
-![IMG_20231216_195816](https://github.com/w34sel/3D-Printing/assets/17765081/432607fc-3f78-43e7-807b-c814a42581d4 =250x250))
-![IMG_20231216_195819](https://github.com/w34sel/3D-Printing/assets/17765081/51709659-cdae-4f6e-96f3-51095efdd8be =250x250))
+![IMG_20231216_195816](https://github.com/w34sel/3D-Printing/assets/17765081/432607fc-3f78-43e7-807b-c814a42581d4))
+![IMG_20231216_195819](https://github.com/w34sel/3D-Printing/assets/17765081/51709659-cdae-4f6e-96f3-51095efdd8be))
 
 - 
