@@ -30,4 +30,6 @@
 
 ![IMG_20231216_195819](https://github.com/w34sel/3D-Printing/assets/17765081/51709659-cdae-4f6e-96f3-51095efdd8be))
 
-- 
+- added cable chain for bed
+  
+![bed_chain](https://github.com/w34sel/3D-Printing/assets/17765081/031f7362-2834-489f-a325-8cf497ca6336)
