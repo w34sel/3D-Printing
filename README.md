@@ -1,5 +1,9 @@
 # 3D Printing
-3D Printing Stuff
+3D Printing Stuff for Elegoo Neptune 4 Plus
+
+
+
+
 
 # How To
 - Cura 5.6 copy definition folder to "C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\"
@@ -32,3 +36,13 @@
 - added cable chain for bed [https://www.thingiverse.com/thing:6381722](https://www.thingiverse.com/thing:6381722)
   
 ![bed_chain](https://github.com/w34sel/3D-Printing/assets/17765081/031f7362-2834-489f-a325-8cf497ca6336)
+
+
+
+
+
+
+
+
+
+
