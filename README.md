@@ -29,6 +29,6 @@
 ![rails](https://github.com/w34sel/3D-Printing/assets/17765081/5147c714-12da-463d-a60e-253edfbe8927)
 
 
-- added cable chain for bed
+- added cable chain for bed [https://www.thingiverse.com/thing:6381722](https://www.thingiverse.com/thing:6381722)
   
 ![bed_chain](https://github.com/w34sel/3D-Printing/assets/17765081/031f7362-2834-489f-a325-8cf497ca6336)
