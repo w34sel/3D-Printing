@@ -1,0 +1,19 @@
+{
+    "filament_cost": [
+        "25"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Sunlu PLA+ - Black"
+    ],
+    "from": "User",
+    "inherits": "Elegoo Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA+ - Black",
+    "pressure_advance": [
+        "0.016"
+    ],
+    "version": "1.8.0.0"
+}

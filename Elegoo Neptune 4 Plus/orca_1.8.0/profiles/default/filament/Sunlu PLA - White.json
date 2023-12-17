@@ -1,0 +1,28 @@
+{
+    "filament_settings_id": [
+        "Sunlu PLA - White"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Elegoo Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA - White",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "nozzle_temperature_range_high": [
+        "200"
+    ],
+    "nozzle_temperature_range_low": [
+        "190"
+    ],
+    "version": "1.8.0.0"
+}
