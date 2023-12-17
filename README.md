@@ -26,9 +26,8 @@
 - modified nginx to avoid http 504 upload error dialog
 - replaced wheels with linear rails x/y/z - rails bought here https://strong3d.myshopify.com/
 
-![IMG_20231216_195816](https://github.com/w34sel/3D-Printing/assets/17765081/d9a79da4-0669-48bb-a611-efccbdafd711)
+![rails](https://github.com/w34sel/3D-Printing/assets/17765081/5147c714-12da-463d-a60e-253edfbe8927)
 
-![IMG_20231216_195819](https://github.com/w34sel/3D-Printing/assets/17765081/51709659-cdae-4f6e-96f3-51095efdd8be))
 
 - added cable chain for bed
   
