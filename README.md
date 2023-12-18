@@ -20,7 +20,7 @@
 
 - Cable Chain
 - Build case
-- Cam mount
+- Cam mount/case and chain
 - Cam error detection
 
 
