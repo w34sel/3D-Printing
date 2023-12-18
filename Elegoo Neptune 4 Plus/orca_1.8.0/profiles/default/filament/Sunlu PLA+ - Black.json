@@ -8,10 +8,28 @@
     "filament_settings_id": [
         "Sunlu PLA+ - Black"
     ],
+    "filament_type": [
+        "PLA+"
+    ],
+    "filament_vendor": [
+        "SUNLU"
+    ],
     "from": "User",
     "inherits": "Elegoo Generic PLA",
     "is_custom_defined": "0",
     "name": "Sunlu PLA+ - Black",
+    "nozzle_temperature": [
+        "190"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "195"
+    ],
+    "nozzle_temperature_range_high": [
+        "195"
+    ],
+    "nozzle_temperature_range_low": [
+        "190"
+    ],
     "pressure_advance": [
         "0.016"
     ],
