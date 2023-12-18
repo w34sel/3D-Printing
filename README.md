@@ -26,7 +26,7 @@
 
 # Changes
 - firmware upgrade to 1.2.2.64
-- enabled USB Webcam <a target="_blank" href="https://www.amazon.de/gp/search?ie=UTF8&tag=weasel-21&linkCode=ur2&linkId=086b1a63640406b2436f4ff7c9692e3a&camp=1638&creative=6742&index=computers&keywords=USB Kameramodul 110 ° Weitwinkel USB Kamera Modul OV3660 Chip USB 2.0 Ausgang 2048 x 1536 15 FPS Unterstützung für mobiles OTG ">USB Kameramodul 110 ° Weitwinkel USB Kamera Modul OV3660 Chip USB 2.0 Ausgang 2048 x 1536 15 FPS Unterstützung für mobiles OTG </a>
+- enabled USB Webcam <a target="_blank" href="https://www.amazon.de/dp/B088P1PKFM?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=weasel-21&linkCode=ur2&linkId=9056e36dbf85b8c2e10845af80f8d5c2&camp=1638&creative=6742">USB Kameramodul 110 ° Weitwinkel USB Kamera Modul OV3660 Chip USB 2.0 Ausgang 2048 x 1536 15 FPS Unterstützung für mobiles OTG </a>
 - modified nginx to avoid http 504 upload error dialog
 - replaced wheels with linear rails x/y/z - rails bought here https://strong3d.myshopify.com/
 
