@@ -22,6 +22,9 @@
 - Build case
 - Cam mount/case and chain
 - Cam error detection
+- DryBox for Filament with Sensor and heating element
+- MMU
+- MMU case
 
 
 # Changes
