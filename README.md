@@ -37,6 +37,10 @@
   
 ![bed_chain](https://github.com/w34sel/3D-Printing/assets/17765081/031f7362-2834-489f-a325-8cf497ca6336)
 
+- added side cable chain [https://www.thingiverse.com/thing:6395188](https://www.thingiverse.com/thing:6395188)
+  
+![ezgif com-resize](https://github.com/w34sel/3D-Printing/assets/17765081/71867eff-b9fb-4209-acc1-a004153c935b)
+
 
 
 
