@@ -52,6 +52,15 @@
 
 
 
+# PayPal Donate
+
+![QR-Code](https://github.com/w34sel/3D-Printing/assets/17765081/ccecc0de-e947-49d1-b352-60f6f1d50946)
+
+
+
+
+
+
 
 
 
