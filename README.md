@@ -56,8 +56,4 @@
 
 
 
-[![DonatePayPal](https://github.com/w34sel/3D-Printing/assets/17765081/9fef85ca-d82b-48e6-b30e-acccbc6de9a4)
-(https://www.paypal.com/donate/?business=X43DRGVR9EZY4&no_recurring=0&currency_code=EUR)
-]
-
 
