@@ -56,5 +56,3 @@
 
 
 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)]([[https://www.paypal.com/donate/?business=X43DRGVR9EZY4&no_recurring=0&currency_code=USD](https://www.paypal.com/donate/?business=X43DRGVR9EZY4&no_recurring=0&currency_code=USD))
