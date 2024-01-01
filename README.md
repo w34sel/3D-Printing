@@ -18,7 +18,7 @@
 
 # ToDo
 
-- Cable Chain
+- ~~Cable Chain~~
 - Build case
 - Cam mount/case and chain
 - Cam error detection
