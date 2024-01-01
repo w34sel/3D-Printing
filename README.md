@@ -28,7 +28,8 @@
 
 
 # Changes
-- firmware upgrade to 1.2.2.64
+- ~~firmware upgrade to 1.2.2.64~~
+- firmware update to 1.2.2.65 (2024-01-01)
 - enabled USB Webcam <a target="_blank" href="https://www.amazon.de/dp/B088P1PKFM?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=weasel-21&linkCode=ur2&linkId=9056e36dbf85b8c2e10845af80f8d5c2&camp=1638&creative=6742">USB Kameramodul 110 ° Weitwinkel USB Kamera Modul OV3660 Chip USB 2.0 Ausgang 2048 x 1536 15 FPS Unterstützung für mobiles OTG </a>
 - modified nginx to avoid http 504 upload error dialog
 - replaced wheels with linear rails x/y/z - rails bought here https://strong3d.myshopify.com/
@@ -44,10 +45,9 @@
   
 ![ezgif com-resize](https://github.com/w34sel/3D-Printing/assets/17765081/71867eff-b9fb-4209-acc1-a004153c935b)
 
-
-
-
-
+- added Dragon Cable Spine [[https://www.thingiverse.com/thing:6410975](https://www.thingiverse.com/thing:6410975)]
+  
+![cable_spine](https://github.com/w34sel/3D-Printing/assets/17765081/c933cf59-18d7-447a-9d69-fbf45eed6efe)
 
 
 
