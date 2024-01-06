@@ -4,6 +4,6 @@
 *.txt
 *.xlxs
 *.csv
-/cam_mount
-/Firmware
-/Manual
+*/cam_mount
+*/Firmware
+*/Manual
