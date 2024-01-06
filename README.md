@@ -53,7 +53,7 @@
 
 
 
-# Support Me Donate via Paypal
+# Support Me :)
 
 https://www.paypal.com/paypalme/w34sel
 
