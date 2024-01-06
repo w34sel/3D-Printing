@@ -2,7 +2,7 @@
 *.rar
 *.zip
 *.txt
-*.xlxs
+*.xlsx
 *.csv
 */cam_mount
 */Firmware

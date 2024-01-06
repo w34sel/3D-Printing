@@ -1,9 +1,0 @@
-{
-    "from": "User",
-    "inherits": "Elegoo Neptune 4 Plus (0.4 nozzle)",
-    "is_custom_defined": "0",
-    "name": "Elegoo Neptune 4 Plus",
-    "print_host": "192.168.1.128",
-    "printer_settings_id": "Elegoo Neptune 4 Plus",
-    "version": "1.8.0.0"
-}
