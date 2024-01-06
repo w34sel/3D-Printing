@@ -1,0 +1,9 @@
+*.f3d
+*.rar
+*.zip
+*.txt
+*.xlxs
+*.csv
+/cam_mount
+/Firmware
+/Manual
