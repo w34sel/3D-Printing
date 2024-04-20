@@ -7,9 +7,8 @@
 
 # How To
 - Cura 5.6 copy definition folder to "C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\"
-- ~Orca 1.8.0 copy profiles folder to "C:\Program Files\OrcaSlicer\resources\" (Standard speed)~
-- Orca 1.9.0 copy profiles folder to "C:\Program Files\OrcaSlicer\resources\" (System speed)
-- Orca user profiles copy default to "C:\Users\<USERNAME>\AppData\Roaming\OrcaSlicer\user" (Standard > High > Ultra)
+- Orca 2.0.0 copy profiles folder to "C:\Program Files\OrcaSlicer\resources\" (Single Speed)
+- Orca user profiles copy filament, machine, process to "C:\Users\<USERNAME>\AppData\Roaming\OrcaSlicer\user\default" (Single Speed)
   
 
 
