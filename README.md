@@ -1,3 +1,11 @@
+
+# Support Me :)
+
+
+[<img src="https://github.com/w34sel/3D-Printing/assets/17765081/a7ad3aba-56f9-4ff9-b62c-60be59b05409">](https://www.paypal.com/paypalme/w34sel)
+
+
+
 # 3D Printing
 3D Printing Stuff for Elegoo Neptune 4 Plus
 
@@ -7,8 +15,14 @@
 
 # How To
 - Cura 5.6 copy definition folder to "C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\"
+<<<<<<< HEAD
 - Orca 2.0.0 copy profiles folder to "C:\Program Files\OrcaSlicer\resources\" (Single Speed)
 - Orca user profiles copy filament, machine, process to "C:\Users\<USERNAME>\AppData\Roaming\OrcaSlicer\user\default" (Single Speed)
+=======
+
+- Orca 1.9.0 copy "profiles" folder to "C:\Program Files\OrcaSlicer\resources\" (System speed)
+- Orca user profiles copy "default" to "C:\Users\<USERNAME>\AppData\Roaming\OrcaSlicer\user" (Standard > High > Ultra)
+>>>>>>> 88040cd1e1e602d837f287b18b2af5c7cb1d3a76
   
 
 
@@ -51,10 +65,6 @@
 
 
 
-
-# Support Me :)
-
-https://www.paypal.com/paypalme/w34sel
 
 
 
