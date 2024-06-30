@@ -1,75 +1,137 @@
+# 🛠️ 3D Printing Mods for Elegoo Neptune 4 Plus
 
-# Support Me :)
+Welcome to my personal collection of mods, upgrades, and tools for the **Elegoo Neptune 4 Plus**. This includes profiles, firmware updates, cable management, and more.
 
+---
 
-[<img src="https://github.com/w34sel/3D-Printing/assets/17765081/a7ad3aba-56f9-4ff9-b62c-60be59b05409">](https://www.paypal.com/paypalme/w34sel)
+## 📦 How to Use
 
+### 🧠 Cura 5.6
 
+Copy the `definition` folder to:
+C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\
 
-# 3D Printing
-3D Printing Stuff for Elegoo Neptune 4 Plus
+### 🐳 Orca Slicer 2.1.1
 
+Copy the `Elegoo` folder and `Elegoo.json` to:
+C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\system  
+**or**  
+download just the install.bat file and run it.
 
+### 🐳 Orca Slicer 2.2.0+
 
+⚠️ Notice: OrcaSlicer 2.2.0+ Profiles Not Persisting
+After encountering several failed prints, I discovered that something was wrong with the custom profiles in OrcaSlicer 2.3.0. Upon investigation, I found that the application automatically overwrites the system profile files with default versions every time it starts.
 
+As a result, custom modifications made to profiles located in the system folder are not preserved, making it currently unsuitable for persistent custom profile setups in that location.
 
-# How To
-- Cura 5.6 copy definition folder to "C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\"
-- Orca 2.0.0 copy profiles folder to "C:\Program Files\OrcaSlicer\resources\" (Single Speed)"
-- Orca user profiles copy filament, machine, process to "C:\Users\<USERNAME>\AppData\Roaming\OrcaSlicer\user\default" (Single Speed)"
+⚠️ <span style="color:red">**OrcaSlicer version 2.2.0 and later is not supported yet!!! The application overwrites the files with the default versions each time it starts.**</span>
 
+> 💡 Use **WebGUI Speed** to increase speed for _Single Speed_ mode.
 
+### 🎛️ PLA Profile – Jayo
 
+Copy the `filament` folder to:
+C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\user\default
 
- 
+---
 
+## ✅ To-Do List
 
+- [✅] Cable Chain
+- [🚧 ] Build Case
+  - [✅] Frame [🔗](https://amzn.to/4kZyi3t)
+  - [ ] Side Panels
+  - [ ] Front Panel
+  - [ ] Back Panel
+  - [✅] Bottom Panel 10mm MDF Black | 755 x 755 x 10 mm | cutting off the corners
+- [⬜] Camera Mount / Case / Chain
+- [⬜] Camera Error Detection
+- [⬜] DryBox for Filament (with Sensor + Heating Element)
+- [🚧 ] MMU (Multi Material Unit)
+  - [✅] ERCF V2 Enraged Rabbit Project Kit [🔗](https://trianglelab.net/products/ercf-v2-enraged-rabbit-project?VariantsId=11444)
+  - [✅] Print Parts
+  - [ ] Cutter
+  - [ ] MMU Cable Management
+  - [ ] MMU Firmware
+  - [ ] MMU Filament Sensor
+  - [ ] MMU Printhead Adapter
+- [🚧 ] Install new BIGTREETECH SFS V2.0 Smart Filament Sensor Upgrade Bi-Directional [🔗](https://amzn.to/4kPs2vz)
+  - [✅] Cabel Management
+  - [ ] Print Mount
+  - [ ] Modify Config
+- [⬜] MMU Case
 
-# ToDo
+---
 
-- ~~Cable Chain~~
-- Build case
-- Cam mount/case and chain
-- Cam error detection
-- DryBox for Filament with Sensor and heating element
-- MMU
-- MMU case
+💡 **Notes:**
 
+- ✅ = complete (green checkmark)
+- ⬜ = not started / to-do
+- 🚧 = in progress or "under construction"
 
-# Changes
-- ~~firmware upgrade to 1.2.2.64~~
-- firmware update to 1.2.2.65 (2024-01-01)
-- enabled USB Webcam <a target="_blank" href="https://www.amazon.de/dp/B088P1PKFM?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=weasel-21&linkCode=ur2&linkId=9056e36dbf85b8c2e10845af80f8d5c2&camp=1638&creative=6742">USB Kameramodul 110 ° Weitwinkel USB Kamera Modul OV3660 Chip USB 2.0 Ausgang 2048 x 1536 15 FPS Unterstützung für mobiles OTG </a>
-- modified nginx to avoid http 504 upload error dialog
-- replaced wheels with linear rails x/y/z - rails bought here https://strong3d.myshopify.com/
+_Use 🟥 or ⚠️ if you want to highlight something as broken/incomplete._
 
-![rails](https://github.com/w34sel/3D-Printing/assets/17765081/5147c714-12da-463d-a60e-253edfbe8927)
+---
 
+## 🧾 Recent Changes
 
-- added cable chain for bed [https://www.thingiverse.com/thing:6381722](https://www.thingiverse.com/thing:6381722)
-  
-![bed_chain](https://github.com/w34sel/3D-Printing/assets/17765081/031f7362-2834-489f-a325-8cf497ca6336)
+### 🚂 Motion System
 
-- added side cable chain [https://www.thingiverse.com/thing:6395188](https://www.thingiverse.com/thing:6395188)
-  
-![ezgif com-resize](https://github.com/w34sel/3D-Printing/assets/17765081/71867eff-b9fb-4209-acc1-a004153c935b)
+- ✅ Replaced wheels with **linear rails (X/Y/Z)**  
+  👉 [Buy Rails](https://strong3d.myshopify.com/)  
+  ![rails](https://github.com/w34sel/3D-Printing/assets/17765081/5147c714-12da-463d-a60e-253edfbe8927)
 
-- added Dragon Cable Spine [[https://www.thingiverse.com/thing:6410975](https://www.thingiverse.com/thing:6410975)]
-  
-![cable_spine](https://github.com/w34sel/3D-Printing/assets/17765081/c933cf59-18d7-447a-9d69-fbf45eed6efe)
+### 🔗 Cable Management
 
-- changed to openNept4une image https://github.com/OpenNeptune3D/OpenNept4une
+- ✅ Bed Cable Chain  
+  [Thingiverse #6381722](https://www.thingiverse.com/thing:6381722)  
+  ![bed_chain](https://github.com/w34sel/3D-Printing/assets/17765081/031f7362-2834-489f-a325-8cf497ca6336)
 
+- ✅ Side Cable Chain  
+  [Thingiverse #6395188](https://www.thingiverse.com/thing:6395188)  
+  ![side_chain](https://github.com/w34sel/3D-Printing/assets/17765081/71867eff-b9fb-4209-acc1-a004153c935b)
 
+### ⛔ Sheet Stopper
 
+- ✅ [Thingiverse #7059802](https://www.thingiverse.com/thing:7059802)  
+  ![signal-2025-06-08-100747_005](https://github.com/user-attachments/assets/d40dfe30-ab77-4f30-957d-9ba2ec68312d)
 
+  - [M4 Screw-In Nut Melting Thread](https://amzn.to/3ZnDkOO)
+  - [Phillips Flat Head Screws M4 x 12 mm](https://amzn.to/4dWsp4E)
 
+### 🔧 Firmware
 
+- ✅ Switched to **[openNept4une](https://github.com/OpenNeptune3D/OpenNept4une)**
 
+- ✅ Added **[New MKS EMMC 32GB](https://amzn.to/3ZovC78)**
+  For this, you need to flash the firmware using an SD card. I bought the MKS eMMC adapter and a 32GB MKS eMMC card/reader.
 
+### 🎥 Camera
 
+- ✅ **Enabled USB Webcam**  
+  [USB Kameramodul 110° Wide Angle (OV3660, USB 2.0)](https://www.amazon.de/dp/B088P1PKFM?psc=1&tag=weasel-21&linkCode=ur2)
 
+- ✅ **Replaced Bed Springs with Silicone Spacers**  
+  [Silicon Spacers](https://amzn.to/4dSuhew)
 
+---
 
+## ☕ Support Me
 
+If you find this helpful and want to support my work, you can:
 
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="120">](https://buymeacoffee.com/w34sel)
+
+### **OR**
+
+[<img src="https://github.com/w34sel/3D-Printing/assets/17765081/a7ad3aba-56f9-4ff9-b62c-60be59b05409" width="100">](https://www.paypal.com/paypalme/w34sel)
+
+---
+
+## 📬 Feedback / Contact
+
+Have an idea, suggestion, or question?  
+👉 [Open an issue](https://github.com/w34sel/3D-Printing/issues) or connect on GitHub.
+
+---
