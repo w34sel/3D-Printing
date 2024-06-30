@@ -15,8 +15,8 @@
 
 # How To
 - Cura 5.6 copy definition folder to "C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\"
-- Orca 2.1.1 copy Elegoo folder and Elegoo.json to "C:\Users\"<USERNAME>"\AppData\Roaming\OrcaSlicer\system" (Single Speed to increase use the WebGUI Speed)"
-- Added PLA Profile for Jayo copy filament folder to "C:\Users\"<USERNAME>"\AppData\Roaming\OrcaSlicer\user\default"
+- Orca 2.1.1 copy Elegoo folder and Elegoo.json to "C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\system" (Single Speed to increase use the WebGUI Speed)"
+- Added PLA Profile for Jayo copy filament folder to "C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\user\default"
 
 
 
