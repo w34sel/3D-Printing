@@ -47,10 +47,10 @@
 	"machine_max_acceleration_travel": ["20000", "500"],
 	"machine_max_acceleration_x": ["12000", "20000"],
 	"machine_max_acceleration_y": ["12000", "20000"],
-	"machine_max_acceleration_z": ["2500", "200"],
+	"machine_max_acceleration_z": ["2500", "250"],
 	"machine_max_speed_e": ["60", "25"],
-	"machine_max_speed_x": ["500", "250"],
-	"machine_max_speed_y": ["500", "250"],
+	"machine_max_speed_x": ["500", "300"],
+	"machine_max_speed_y": ["500", "300"],
 	"machine_max_speed_z": ["25", "20"],
 	"machine_max_jerk_e": ["2.5", "5"],
 
