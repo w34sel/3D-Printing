@@ -23,7 +23,7 @@ download just the install.bat file and run it.
 ⚠️ Notice: OrcaSlicer 2.3.0+ Profiles Not Persisting
 After encountering several failed prints, I discovered that something was wrong with the custom profiles in OrcaSlicer 2.3.0. Upon investigation, I found that the application automatically overwrites the system profile files with default versions every time it starts.
 
-As a result, custom modifications made to profiles located in the system folder are not preserved, making it currently unsuitable for persistent custom profile setups in that location.
+As a result, custom modifications made to profiles located in the system folder are not preserved, making it currently unsuitable for persistent custom profile setups in that location.  
 
 ⚠️ <span style="color:red">**OrcaSlicer version 2.3.0 and later is not supported yet!!! The application overwrites the files with the default versions each time it starts.**</span>
 
@@ -94,7 +94,7 @@ _Use 🟥 or ⚠️ if you want to highlight something as broken/incomplete._
 
 ### ⛔ Sheet Stopper
 
-- ✅ [Thingiverse #7059802](https://www.thingiverse.com/thing:7059802)
+- ✅ [Thingiverse #7059802](https://www.thingiverse.com/thing:7059802)  
   ![signal-2025-06-08-100747_005](https://github.com/user-attachments/assets/d40dfe30-ab77-4f30-957d-9ba2ec68312d)
 
   - [M4 Screw-In Nut Melting Thread](https://amzn.to/3ZnDkOO)
