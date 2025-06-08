@@ -18,7 +18,7 @@ C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\system
 **or**  
 download just the install.bat file and run it.
 
-⚠️ **OrcaSlicer version 2.3.0 and later is not supported yet!!! The application overwrites the files with the default versions each time it starts.**
+⚠️ <span style="color:red">**OrcaSlicer version 2.3.0 and later is not supported yet!!! The application overwrites the files with the default versions each time it starts.**</span>
 
 > 💡 Use **WebGUI Speed** to increase speed for _Single Speed_ mode.
 
