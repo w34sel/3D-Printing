@@ -95,7 +95,7 @@ _Use 🟥 or ⚠️ if you want to highlight something as broken/incomplete._
 ### ⛔ Sheet Stopper
 
 - ✅ [Thingiverse #7059802](https://www.thingiverse.com/thing:7059802)
-  ![signal-2025-06-08-100747_005](https://github.com/user-attachments/assets/01af8430-a1f2-47c1-8846-e6820dc5e9be)
+  ![signal-2025-06-08-100747_005](https://github.com/user-attachments/assets/d40dfe30-ab77-4f30-957d-9ba2ec68312d)
 
   - [M4 Screw-In Nut Melting Thread](https://amzn.to/3ZnDkOO)
   - [Phillips Flat Head Screws M4 x 12 mm](https://amzn.to/4dWsp4E)
