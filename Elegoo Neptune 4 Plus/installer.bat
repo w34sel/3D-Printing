@@ -3,7 +3,7 @@ setlocal
 
 :: Set up variables
 set GITHUB_REPO=https://github.com/w34sel/3D-Printing.git
-set SUBFOLDER=Elegoo Neptune 4 Plus/orca_2.3.0
+set SUBFOLDER=Elegoo Neptune 4 Plus/orca_2.1.1
 set TARGET_DIR=%TEMP%\orca_profile_temp
 set ORCA_DIR=%APPDATA%\OrcaSlicer\system
 
