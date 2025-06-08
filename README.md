@@ -11,10 +11,14 @@ Welcome to my personal collection of mods, upgrades, and tools for the **Elegoo 
 Copy the `definition` folder to:
 C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\
 
-### 🐳 Orca Slicer 2.1.1 - 2.3.0
+### 🐳 Orca Slicer 2.1.1 - 2.2.0
 
 Copy the `Elegoo` folder and `Elegoo.json` to:
-C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\system **or** download just the install.bat file and run it.
+C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\system  
+**or**  
+download just the install.bat file and run it.
+
+⚠️ **OrcaSlicer version 2.3.0 and later is not supported yet!!! The application overwrites the files with the default versions each time it starts.**
 
 > 💡 Use **WebGUI Speed** to increase speed for _Single Speed_ mode.
 
@@ -27,31 +31,43 @@ C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\user\default
 
 ## ✅ To-Do List
 
-- [x] Cable Chain
-- [ ] Build Case
-- [ ] Camera Mount / Case / Chain
-- [ ] Camera Error Detection
-- [ ] DryBox for Filament (with Sensor + Heating Element)
-- [ ] MMU (Multi Material Unit)
-- [ ] MMU Case
+- [✅] Cable Chain
+- [🚧 ] Build Case
+  - [✅] Frame [🔗](https://amzn.to/4kZyi3t)
+  - [ ] Side Panels
+  - [ ] Front Panel
+  - [ ] Back Panel
+  - [✅] Bottom Panel 10mm MDF Black | 755 x 755 x 10 mm | cutting off the corners
+- [⬜] Camera Mount / Case / Chain
+- [⬜] Camera Error Detection
+- [⬜] DryBox for Filament (with Sensor + Heating Element)
+- [🚧 ] MMU (Multi Material Unit)
+  - [✅] ERCF V2 Enraged Rabbit Project Kit [🔗](https://trianglelab.net/products/ercf-v2-enraged-rabbit-project?VariantsId=11444)
+  - [✅] Print Parts
+  - [ ] Cutter
+  - [ ] MMU Cable Management
+  - [ ] MMU Firmware
+  - [ ] MMU Filament Sensor
+  - [ ] MMU Printhead Adapter
+- [🚧 ] Install new BIGTREETECH SFS V2.0 Smart Filament Sensor Upgrade Bi-Directional [🔗](https://amzn.to/4kPs2vz)
+  - [✅] Cabel Management
+  - [ ] Print Mount
+  - [ ] Modify Config
+- [⬜] MMU Case
+
+---
+
+💡 **Notes:**
+
+- ✅ = complete (green checkmark)
+- ⬜ = not started / to-do
+- 🚧 = in progress or "under construction"
+
+_Use 🟥 or ⚠️ if you want to highlight something as broken/incomplete._
 
 ---
 
 ## 🧾 Recent Changes
-
-### 🔧 Firmware
-
-- ~~Updated to 1.2.2.64~~
-- ✅ **Updated to 1.2.2.65** _(2024-01-01)_
-
-### 🎥 Camera
-
-- ✅ **Enabled USB Webcam**  
-  [USB Kameramodul 110° Wide Angle (OV3660, USB 2.0)](https://www.amazon.de/dp/B088P1PKFM?psc=1&tag=weasel-21&linkCode=ur2)
-
-### 🌐 Web Server
-
-- ✅ Modified **nginx** config to prevent HTTP 504 Upload Errors
 
 ### 🚂 Motion System
 
@@ -69,19 +85,37 @@ C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\user\default
   [Thingiverse #6395188](https://www.thingiverse.com/thing:6395188)  
   ![side_chain](https://github.com/w34sel/3D-Printing/assets/17765081/71867eff-b9fb-4209-acc1-a004153c935b)
 
-- ✅ Dragon Cable Spine  
-  [Thingiverse #6410975](https://www.thingiverse.com/thing:6410975)  
-  ![cable_spine](https://github.com/w34sel/3D-Printing/assets/17765081/c933cf59-18d7-447a-9d69-fbf45eed6efe)
+### ⛔ Sheet Stopper
 
-### 🧪 OS Image
+- ✅ [Thingiverse #7059802](https://www.thingiverse.com/thing:7059802)
+
+  - [M4 Screw-In Nut Melting Thread](https://amzn.to/3ZnDkOO)
+  - [Phillips Flat Head Screws M4 x 12 mm](https://amzn.to/4dWsp4E)
+
+### 🔧 Firmware
 
 - ✅ Switched to **[openNept4une](https://github.com/OpenNeptune3D/OpenNept4une)**
+
+- ✅ Added **[New MKS EMMC 32GB](https://amzn.to/3ZovC78)**
+  For this, you need to flash the firmware using an SD card. I bought the MKS eMMC adapter and a 32GB MKS eMMC card/reader.
+
+### 🎥 Camera
+
+- ✅ **Enabled USB Webcam**  
+  [USB Kameramodul 110° Wide Angle (OV3660, USB 2.0)](https://www.amazon.de/dp/B088P1PKFM?psc=1&tag=weasel-21&linkCode=ur2)
+
+- ✅ **Replaced Bed Springs with Silicone Spacers**  
+  [Silicon Spacers](https://amzn.to/4dSuhew)
 
 ---
 
 ## ☕ Support Me
 
-If you find this helpful and want to support my work, you can buy me a coffee or donate via PayPal:
+If you find this helpful and want to support my work, you can:
+
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="120">](https://buymeacoffee.com/w34sel)
+
+### **OR**
 
 [<img src="https://github.com/w34sel/3D-Printing/assets/17765081/a7ad3aba-56f9-4ff9-b62c-60be59b05409" width="100">](https://www.paypal.com/paypalme/w34sel)
 
