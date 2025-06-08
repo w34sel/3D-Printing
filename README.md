@@ -18,6 +18,12 @@ C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\system
 **or**  
 download just the install.bat file and run it.
 
+### 🐳 Orca Slicer 2.3.0+
+
+⚠️ Notice: OrcaSlicer 2.3.0+ Profiles Not Persisting
+After encountering several failed prints, I discovered that something was wrong with the custom profiles in OrcaSlicer 2.3.0. Upon investigation, I found that the application automatically overwrites the system profile files with default versions every time it starts.
+
+As a result, custom modifications made to profiles located in the system folder are not preserved, making it currently unsuitable for persistent custom profile setups in that location.  
 ⚠️ <span style="color:red">**OrcaSlicer version 2.3.0 and later is not supported yet!!! The application overwrites the files with the default versions each time it starts.**</span>
 
 > 💡 Use **WebGUI Speed** to increase speed for _Single Speed_ mode.
