@@ -1,0 +1,14 @@
+{
+    "default_acceleration": "5000",
+    "from": "User",
+    "inherits": "0.20mm Standard @Elegoo Neptune4 Plus (0.4 nozzle)",
+    "inner_wall_acceleration": "5000",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Elegoo Neptune4 Plus (0.4 nozzle) - w34sel",
+    "print_settings_id": "0.20mm Standard @Elegoo Neptune4 Plus (0.4 nozzle) - w34sel",
+    "sparse_infill_density": "40%",
+    "sparse_infill_pattern": "gyroid",
+    "travel_acceleration": "5000",
+    "travel_speed": "350",
+    "version": "2.1.1.0"
+}

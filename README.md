@@ -25,7 +25,7 @@ After encountering several failed prints, I discovered that something was wrong 
 
 As a result, custom modifications made to profiles located in the system folder are not preserved, making it currently unsuitable for persistent custom profile setups in that location.
 
-⚠️ <span style="color:red">**OrcaSlicer version 2.2.0 and later is not supported yet!!! The application overwrites the files with the default versions each time it starts.**</span>
+⚠️ <span style="color:red">**Workaround: Exported as user profiles (see: orca_2.3.x) and import them to Orca Slicer Files->Import Config**</span>
 
 > 💡 Use **WebGUI Speed** to increase speed for _Single Speed_ mode.
 
