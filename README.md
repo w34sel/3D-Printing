@@ -1,33 +1,12 @@
 # 🛠️ 3D Printing Mods for Elegoo Neptune 4 Plus
 
-Welcome to my personal collection of mods, upgrades, and tools for the **Elegoo Neptune 4 Plus**. This includes profiles, firmware updates, cable management, and more.
+Welcome to my personal collection of mods, upgrades, and tools for the **Elegoo Neptune 4 Plus**. This includes ~~profiles~~, firmware updates, cable management, and more.
 
 ---
 
-## 📦 How to Use
+### 🐳 ElegooSlicer
 
-### 🧠 Cura 5.6
-
-Copy the `definition` folder to:
-C:\Program Files\UltiMaker Cura 5.6.0\share\cura\resources\
-
-### 🐳 Orca Slicer 2.1.1
-
-Copy the `Elegoo` folder and `Elegoo.json` to:
-C:\Users\USERNAME\AppData\Roaming\OrcaSlicer\system  
-**or**  
-download just the install.bat file and run it.
-
-### 🐳 Orca Slicer 2.2.0+
-
-⚠️ Notice: OrcaSlicer 2.2.0+ Profiles Not Persisting
-After encountering several failed prints, I discovered that something was wrong with the custom profiles in OrcaSlicer 2.3.0. Upon investigation, I found that the application automatically overwrites the system profile files with default versions every time it starts.
-
-As a result, custom modifications made to profiles located in the system folder are not preserved, making it currently unsuitable for persistent custom profile setups in that location.
-
-⚠️ <span style="color:red">**Workaround: Exported as user profiles (see: orca_2.3.x) and import them to Orca Slicer Files->Import Config**</span>
-
-> 💡 Use **WebGUI Speed** to increase speed for _Single Speed_ mode.
+⚠️ <span style="color:red">**Going forward, please switch to ElegooSlicer[🔗](https://www.elegoo.com/pages/download?c1=3d-printers-slicing-softwares) (Orca fork) and use the default profiles provided with the application.**</span>
 
 ### 🎛️ PLA Profile – Jayo
 
